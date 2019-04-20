@@ -18,7 +18,8 @@
 #
 # Function Description :
 # --------------------
-# Complete the utopianTree function in the editor below. It should return the integer height of the tree after the input number of growth cycles.
+# Complete the utopianTree function in the editor below. It should return the integer height of the tree after the input number 
+# of growth cycles.
 # utopianTree has the following parameter(s):
 # n: an integer, the number of growth cycles to simulate
 #
@@ -55,7 +56,9 @@
 #
 # - In the first case (n = 0), the initial height (H = 1) of the tree remains unchanged.
 # - In the second case (n = 1), the tree doubles in height and is 2 meters tall after the spring cycle.
-# - In the third case (n = 4), the tree doubles its height in spring (n = 1,H = 2), then grows a meter in summer (n = 2,H = 3), then doubles after the next spring (n = 3,H = 6), and grows another meter after summer (n = 4,H = 7). Thus, at the end of 4 cycles, its height is 7 meters.
+# - In the third case (n = 4), the tree doubles its height in spring (n = 1,H = 2), then grows a meter in summer (n = 2,H = 3), 
+# then doubles after the next spring (n = 3,H = 6), and grows another meter after summer (n = 4,H = 7). Thus, at the end of 4 cycles, 
+# its height is 7 meters.
 #
 ##################################################################################
 
