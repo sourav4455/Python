@@ -38,7 +38,6 @@ def create_sub_array(input):
 
 def largest_array():
     out = create_sub_array(input)
-    print out
     max_arr = []
     for arr in out:
         if not max_arr:
